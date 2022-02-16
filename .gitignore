@@ -21,14 +21,10 @@ node_modules/ config/default.json
 .env.test.local
 .env.production.local
 
-<<<<<<< HEAD
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 node_modules
-=======
-npm-debug.log*
->>>>>>> dec1a5c144d624a3cb22e4b20295c37aa90cbe1a
 node_modules
 node_modules
 node_modules
