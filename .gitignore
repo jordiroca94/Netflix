@@ -5,8 +5,6 @@ src/lib/firebase.js
 node_modules
 /.pnp
 .pnp.js
-node_modules/ config/default.json
-
 
 # testing
 /coverage
